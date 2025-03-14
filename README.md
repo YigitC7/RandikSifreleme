@@ -22,4 +22,6 @@ Bu bir metin şifreleme programıdır. Randik adını verdiğim bir şifreleme y
 Python kodu, yorumlayıcısı ile çalışabilir. Bu yorumlayıcı olduğu sürece bütün işletim sistemlerinde, mimari fark etmeksizin çalışır.
 ### Windows exe: <a href="https://github.com/YigitC7/RandikSifreleme/releases/download/12.03.2025/RandikSifreleme.exe">İndir</a>
 Exe bin dosyası Windows 10-11 64 Bit için uygundur.
+### Windows Setup: <a href="https://github.com/YigitC7/RandikSifreleme/releases/download/12.03.2025/RandikKur64.exe">İndir</a>
+Program kurulumu yapar. Windows 10-11 64 Bit için uygundur.
 
